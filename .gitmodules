@@ -1,0 +1,3 @@
+[submodule "submodluez/HolisticWare.Core.Data"]
+	path = submodluez/HolisticWare.Core.Data
+	url = https://github.com/moljac/HolisticWare.Core.Data.git

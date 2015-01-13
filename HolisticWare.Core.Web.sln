@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.Core.Web", "HolisticWare.Core.Web\HolisticWare.Core.Web.csproj", "{79DC9BB5-1927-4785-8AE4-9415DCA0EB3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "submodulez", "submodulez", "{629A8310-78BD-4EC6-84C9-8DC02167FCC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79DC9BB5-1927-4785-8AE4-9415DCA0EB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79DC9BB5-1927-4785-8AE4-9415DCA0EB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79DC9BB5-1927-4785-8AE4-9415DCA0EB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79DC9BB5-1927-4785-8AE4-9415DCA0EB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
